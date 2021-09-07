@@ -1,0 +1,13 @@
+[VERSION]: MBINCompiler v3.53.0.1
+[ARGS]: "convert" "-y" "-f" "T:\Program Files (x86)\Modding\No Mans Sky\Modding Station\MyProjects\English Aliens Words\LANGUAGE\NMS_LOC1_ENGLISH.MBIN"
+
+If you encounter any errors, please submit a bug report and include this log file.
+Please check that there isn't already a similar issue open before creating a new one.
+https://github.com/monkeyman192/MBINCompiler/issues
+
+[INFO]: Auto-Detected --input-format=MBIN
+[INFO]: --input-format=MBIN --output-format=EXML
+
+[INFO]: 1 files converted.
+
+[INFO]: TIME: 3.608 seconds

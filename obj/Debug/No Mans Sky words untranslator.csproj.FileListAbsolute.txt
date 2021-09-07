@@ -1,0 +1,21 @@
+T:\мои документы\Документы 2017\PRO gramm\VS\PRO ect\с♯\No Mans Sky words untranslator\bin\Debug\No Mans Sky words untranslator.exe.config
+T:\мои документы\Документы 2017\PRO gramm\VS\PRO ect\с♯\No Mans Sky words untranslator\bin\Debug\No Mans Sky words untranslator.exe
+T:\мои документы\Документы 2017\PRO gramm\VS\PRO ect\с♯\No Mans Sky words untranslator\bin\Debug\No Mans Sky words untranslator.pdb
+T:\мои документы\Документы 2017\PRO gramm\VS\PRO ect\с♯\No Mans Sky words untranslator\obj\Debug\No Mans Sky words untranslator.csproj.AssemblyReference.cache
+T:\мои документы\Документы 2017\PRO gramm\VS\PRO ect\с♯\No Mans Sky words untranslator\obj\Debug\No_Mans_Sky_words_untranslator.Properties.Resources.resources
+T:\мои документы\Документы 2017\PRO gramm\VS\PRO ect\с♯\No Mans Sky words untranslator\obj\Debug\No Mans Sky words untranslator.csproj.GenerateResource.cache
+T:\мои документы\Документы 2017\PRO gramm\VS\PRO ect\с♯\No Mans Sky words untranslator\obj\Debug\No Mans Sky words untranslator.csproj.CoreCompileInputs.cache
+T:\мои документы\Документы 2017\PRO gramm\VS\PRO ect\с♯\No Mans Sky words untranslator\obj\Debug\No Mans Sky words untranslator.exe
+T:\мои документы\Документы 2017\PRO gramm\VS\PRO ect\с♯\No Mans Sky words untranslator\obj\Debug\No Mans Sky words untranslator.pdb
+T:\мои документы\Документы 2017\PRO gramm\VS\PRO ect\с♯\No Mans Sky words untranslator\bin\Debug\Microsoft.WindowsAPICodePack.dll
+T:\мои документы\Документы 2017\PRO gramm\VS\PRO ect\с♯\No Mans Sky words untranslator\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+T:\мои документы\Документы 2017\PRO gramm\VS\PRO ect\с♯\No Mans Sky words untranslator\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+T:\мои документы\Документы 2017\PRO gramm\VS\PRO ect\с♯\No Mans Sky words untranslator\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+T:\мои документы\Документы 2017\PRO gramm\VS\PRO ect\с♯\No Mans Sky words untranslator\bin\Debug\Microsoft.WindowsAPICodePack.xml
+T:\мои документы\Документы 2017\PRO gramm\VS\PRO ect\с♯\No Mans Sky words untranslator\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+T:\мои документы\Документы 2017\PRO gramm\VS\PRO ect\с♯\No Mans Sky words untranslator\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+T:\мои документы\Документы 2017\PRO gramm\VS\PRO ect\с♯\No Mans Sky words untranslator\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+T:\мои документы\Документы 2017\PRO gramm\VS\PRO ect\с♯\No Mans Sky words untranslator\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+T:\мои документы\Документы 2017\PRO gramm\VS\PRO ect\с♯\No Mans Sky words untranslator\obj\Debug\No Mans Sky words untranslator.csproj.CopyComplete
+T:\мои документы\Документы 2017\PRO gramm\VS\PRO ect\с♯\No Mans Sky words untranslator\obj\Debug\No_Mans_Sky_words_untranslator.FormMain.resources
+T:\мои документы\Документы 2017\PRO gramm\VS\PRO ect\с♯\No Mans Sky words untranslator\obj\Debug\No_Mans_Sky_words_untranslator.FormFolderRename.resources
