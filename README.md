@@ -6,3 +6,6 @@
 6. Click Create localisation files, wait
 7. Download NMS Modding station, in settings set folder 2 as project path, go to the folder 2, click RMB → Pack Mod or use AMUMSS
 8. Name .pak file as EnglishAliensWords. Mod ready!
+
+# I just want the mod
+If you just want the mod and somehow wandered in here, download it [here, on the Nexus mods](https://www.nexusmods.com/nomanssky/mods/2070)
